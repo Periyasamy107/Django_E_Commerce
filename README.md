@@ -33,7 +33,7 @@ A simple ecommerce application built with Django Framework. It supports CRUD ope
 
 <br><br>
 ### API ENDPOINTS 
-- **Get Home Page :**   http://localhost:8000/
+- **Home Page :**   http://localhost:8000/
 - **Register Page :**   http://localhost:8000/register/
 - **Login Page :**   http://localhost:8000/login/
 - **Collections Page :**  http://127.0.0.1:8000/collections/
